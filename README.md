@@ -17,7 +17,7 @@ Phase 2 -
 Phase 3 -
 1) Basic animation for the avatar using additional AI generated images & editing software if needed.
 
-Phase 4) -
+Phase 4 -
 TBD
 
 Phase 5 -
